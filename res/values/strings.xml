@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">example</string>
+    <string name="app_name">Example</string>
+    <string name="menu_add_question">Add Question</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
 </resources>
